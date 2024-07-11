@@ -7,12 +7,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "Cloud-FileHub",
+    description: "Built a cloud file management platform with Next.js, Firebase, Tailwind, and Google Sign-In.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Deepanshu2k3/firebase-files-app",
+    previewUrl: "https://firebase-files-app.vercel.app/Login",
   },
   {
     id: 2,
