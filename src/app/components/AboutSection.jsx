@@ -23,8 +23,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bharati Vidyapeeths College Of Engineering - 8.2 CGPA</li>
-        <li>St. Marks Sr. Sec. School - 87%</li>
+        <li>Bharati Vidyapeeths College Of Engineering - 7.9 CGPA</li>
+        <li>Senior Secondary School - 70%</li>
       </ul>
     ),
   },
